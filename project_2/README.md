@@ -1,16 +1,7 @@
 # project_2
 
-A new Flutter project.
+## Description:
 
-## Getting Started
+• Create an Ul which represents RED & WHITE in vertical order which itself come from all IT course names.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/chitrodaS/Designer/assets/143987366/ea3f0058-e9df-43fb-946b-5d232422077d)
