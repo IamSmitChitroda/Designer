@@ -1,16 +1,11 @@
 # project_1
 
-A new Flutter project.
+## Description:
 
-## Getting Started
+• Display list of fruits as shown in image.
 
-This project is a starting point for a Flutter application.
+• Also play emojis in front of each fruit name.
 
-A few resources to get you started if this is your first Flutter project:
+• Make sure to apply different colors for all fruits with proper text styling
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/chitrodaS/Designer/assets/143987366/ce358da9-802f-4a20-aa4a-924a2cbc3578)
